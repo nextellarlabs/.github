@@ -1,5 +1,10 @@
 # Nextellar
 
+[![npm version](https://img.shields.io/npm/v/nextellar.svg)](https://www.npmjs.com/package/nextellar)
+[![License](https://img.shields.io/github/license/nextellar/nextellar.svg)](https://github.com/nextellar/nextellar/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/nextellar/nextellar.svg?style=social)](https://github.com/nextellar/nextellar)
+
+
 **The unified developer platform for building, deploying, and scaling applications on Stellar.**
 
 Nextellar is a modern, developer-first toolchain designed to remove friction from building on the Stellar ecosystem. It provides a production-ready CLI for scaffolding applications and, in its roadmap, a tightly integrated hosting platform that takes projects from local development to production with minimal configuration.
